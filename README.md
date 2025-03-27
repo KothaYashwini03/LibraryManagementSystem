@@ -30,7 +30,7 @@ This is a simple **Java-based** Library Management System that allows librarians
     ```
 4. Run the application:
     ```bash
-    java src.LibraryApp
+    java src.LibraryManagement
     ```
 
 ### Contribution:
